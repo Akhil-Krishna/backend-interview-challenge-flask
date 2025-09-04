@@ -325,12 +325,7 @@ GET /health → 200 OK (with DB status)
 - [ ] Sync progress tracking with percentages
 - [ ] Offline indicator and sync status in responses
 
-## 📞 Support & Questions
 
-For questions about this implementation:
-- **Email**: your.email@example.com
-- **GitHub Issues**: [Create an issue](https://github.com/yourusername/task-sync-api/issues)
-- **Documentation**: This README covers most scenarios
 
 ## 📄 License
 
